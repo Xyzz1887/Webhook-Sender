@@ -1,6 +1,6 @@
 # Webhook Spammer
 
-Very simple Webhook Spammer using libcurl.
+Very simple Discord webhook-spammer using libcurl.
 
 ## Simple usage
 
