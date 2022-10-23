@@ -1,7 +1,6 @@
-# Webhook Spammer
+# Webhook sender
 
-Very simple Discord webhook-spammer using libcurl.
-
+Very simple and ugly webhook sender for Discord.
 ## Simple usage
 
 - Edit config.hpp, Discord docs about: [JSON/Form Params](https://discord.com/developers/docs/resources/webhook#execute-webhook-jsonform-params) & [Embed objects](https://discord.com/developers/docs/resources/channel#embed-object)
@@ -9,6 +8,8 @@ Very simple Discord webhook-spammer using libcurl.
 - Compile.
 - Run.
 
+##Todo
+- Use a .json file and parse the json objects instead of using a ugly string :c
 
 ## Authors
 
